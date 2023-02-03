@@ -1,1 +1,23 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+}
 
+body {
+    background-color: #e9e9e9;
+}
+
+#bigbox {
+    width: 1000px;
+    margin: 0 auto;
+}
+
+#banner {
+    width: 1000px;
+    font-size: 0px;
+}
+
+#banner img {
+    width: 1000px;
+}
